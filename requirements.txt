@@ -1,0 +1,7 @@
+ipython
+omegaconf
+pydub
+PyYAML
+torch
+torchaudio
+aksharamukha
